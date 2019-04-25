@@ -24,7 +24,7 @@ export default class BlogPost extends Component {
         <Comment commentText={comments[0]} />
         <Comment commentText={comments[1]} />
         <Comment commentText={comments[2]} />
-        
+
       </div>
     );
   }
