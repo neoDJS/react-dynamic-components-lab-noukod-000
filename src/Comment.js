@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 class Comment extends Component {
   render(){
     return(
-      <div></div<
+      <div>{this.props.commentText}</div<
     )
   }
 }
